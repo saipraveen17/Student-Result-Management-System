@@ -1,0 +1,46 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Dell\Desktop\Projects DSA\Student Results Management System\src\Student Results Management System\App\StudentRMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Dell\Desktop\Projects DSA\Student Results Management System\src\Student Results Management System\App\.
+Java min ver:	1.011.000_013
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.13
+Check launcher:	C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin\javaw.exe (OK)
+Match:		1.011.000_013
+Runtime used:	1.011.000_013 (64-bit)
+Launcher:	C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Dell\Desktop\Projects DSA\Student Results Management System\src\Student Results Management System\App\StudentRMS.exe"
+Args length:	132/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Dell\Desktop\Projects DSA\Student Results Management System\src\Student Results Management System\App\StudentRMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Dell\Desktop\Projects DSA\Student Results Management System\src\Student Results Management System\App\.
+Java min ver:	1.011.000_013
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.13
+Check launcher:	C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin\javaw.exe (OK)
+Match:		1.011.000_013
+Runtime used:	1.011.000_013 (64-bit)
+Launcher:	C:\Program Files\Amazon Corretto\jdk11.0.13_8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Dell\Desktop\Projects DSA\Student Results Management System\src\Student Results Management System\App\StudentRMS.exe"
+Args length:	132/32768 chars
+Exit code:	0
